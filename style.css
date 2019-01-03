@@ -1,0 +1,45 @@
+.main {
+    color: white;
+    background-color: black;
+}
+
+.buttondark{
+  background-color: black;
+       color: white;
+}
+
+.buttondark:hover {
+   background-color: white;
+   color: black;
+}
+
+body{
+    margin: auto;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    max-width: 70%;
+  }
+
+button{
+  background-color: white;
+     color: black;
+     cursor:pointer;
+     float: right;
+}
+
+ button:hover {
+    background-color: black;
+    color: white;
+}
+p{
+  float: right;
+}
+
+header{
+  flex-direction: row;
+}
+
+h1{
+  float: left;
+}
